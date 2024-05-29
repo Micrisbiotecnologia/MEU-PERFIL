@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Micrisbiotecnologia😍
+- 👋 Olá, eu sou a Michele Bortoleto😍
 - 
 - 🌱 I’m currently learning Alura Start
 - Esse perfil é para compartilhar meus projetos no scrath e no javascript
